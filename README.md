@@ -54,8 +54,7 @@ Developed a Vendor Management System using Django and Django REST Framework. Thi
 
    ```bash
    python manage.py createsuperuser
-   
-   python manage.py migrate   
+      
 7. Run the code:
 
    ```bash
